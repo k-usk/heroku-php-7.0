@@ -1,0 +1,11 @@
+{
+  "name": "PHP 7.1 sample",
+  "description": "",
+  "repository": "https://github.com/k-usk/heroku-php-7.1",
+  "image": "heroku/php",
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
